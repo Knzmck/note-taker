@@ -29,11 +29,10 @@ module.exports = function (app) {
     });
     // deletes notes 
     app.delete("/api/notes/:id", (req, res) => {
-        console.log("string")
         fs.readFile('db/db.json', 'utf8', function (err, data) {
             if (err) throw err;
         const noteArray= JSON.parse(data);
-        let deletedNote = (req.params.id);
+        let deletedNote = (req.params.id-1);
         noteArray.splice(deletedNote, 1)
         for (let i = deletedNote; i < noteArray.length; i++) {
             noteArray[i].id--;
