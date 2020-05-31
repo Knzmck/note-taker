@@ -1,4 +1,4 @@
-# Unit 11 Express Homework: Note Taker  
+#  Note Taker  
 
 ## Description   
 
@@ -32,8 +32,12 @@ For users that need to keep track of a lot of information, it's easy to forget o
    <div class="CircleBadge CircleBadge--medium bg-gray-dark">
    <img src="https://avatars.githubusercontent.com/Knzmck" height="90" width="90">   
    </div>  
-   Knzmck  
+   Knzmck   
+
+    ## Questions  
+
+   Please direct all questions the developer to github user Knzmck.   
 
 
 
-/github/languages/top/:user/:repo
+   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  
