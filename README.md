@@ -17,7 +17,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.  
 
-## Required to install app  
+## Technologies    
 
 * Node  
 
@@ -29,14 +29,9 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## Developer  
 
-   <div class="CircleBadge CircleBadge--medium bg-gray-dark">
    <img src="https://avatars.githubusercontent.com/Knzmck" height="90" width="90">   
-   </div>  
-   Kenzie Schutz   
-
-  ## Questions  
-
-   Please direct all questions the developer to github user Knzmck.   
+ 
+   Mackenzie Schutz <a href="https://github.com/knzmck" target="_blank">@Knzmck</a>   
 
 
 
